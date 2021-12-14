@@ -49,8 +49,10 @@
 // 10 - Right stick press
 // 
 
+//TODO #3
 // Testing change from Target 
 
+// Adding another change from Mac remote
 class GameControllerBase
 {
 protected:
